@@ -1,4 +1,4 @@
-<h1 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Frameworks:</h3>
 <h1 align="center">
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -14,15 +14,14 @@
 ![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </h1>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakankumas&show_icons=true&locale=en&layout=compact" alt="hakankumas" /></p>
 
 <h3 align="center">Connect with me: <p>
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakankumas/)
 </p></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hakankumas&label=Profile%20views&color=0e75b6&style=flat" alt="hakankumas" /></p>
